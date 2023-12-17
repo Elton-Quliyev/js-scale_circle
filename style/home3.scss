@@ -1,0 +1,29 @@
+
+$red: #ff0000;
+$size: 50px;
+$halfSize: $size / 2;
+
+
+  
+  
+  .hoty{
+    width:100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    transition: 2s;
+ }
+
+  #start-btn{
+    border: none;
+    padding: 5px 32px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: #000;
+    margin-bottom: 50px;
+  }
+
+
+
+ 
